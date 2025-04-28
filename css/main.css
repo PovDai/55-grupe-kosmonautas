@@ -1,0 +1,22 @@
+header{
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+main{
+    
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: aquamarine;
+
+    
+}
+footer{
+    width: 800px;
+    margin-left: calc(50% - 400px);
+    background-color: green;
+}
+
