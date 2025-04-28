@@ -8,8 +8,10 @@ main{
     width: 800px;
     margin-left: calc(50% - 400px);
     display: flex;
-    align-items: flex-end;
+    align-items: flex;
     margin-top: 70px;
+    gap: 10px;
+    font-size: 15px;
  
     
 }
