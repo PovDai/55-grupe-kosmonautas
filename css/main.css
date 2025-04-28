@@ -2,6 +2,7 @@ header{
     width: 800px;
     margin-left: calc(50% - 400px);
     
+    
  
 }
 main{
@@ -12,12 +13,17 @@ main{
     margin-top: 70px;
     gap: 10px;
     font-size: 15px;
+    
  
     
 }
 footer{
     width: 800px;
     margin-left: calc(50% - 400px);
+    
+    padding-top: 10px;
+    padding-bottom: 16px;
+    align-items: flex;
    
 }
 
