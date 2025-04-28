@@ -7,10 +7,25 @@
 
 
 ##  Project features/goals
-
-- Github pages
-- no responsice design
-- inline CSS
+Github pages
+no responsive design
+CSS file
+FontAwesome icons
+display: flex
+favicon
+hover state
+bash commands:
+touch index.html (sukuria faila)
+touch failas1.txt failas2.txt failas3.txt failas4.txt
+mkdir img (sukuria folderi/direktorija)
+mkdir folder1 folder2 folder3 folder4
+ls -al (stulpeliu atvaizduoja direktorijoje esanti turini)
+rm failo.pavadinimas (pasalina faila)
+git commands:
+git init (git repozitorijos iniciavimas)
+git add . (visus paredaguotus failas perkelia i "stage", t.y. paruosia commit'inimui)
+git commit -m "Message text" (su'commit'ina)
+git push (issiuncia commit'a i remove repozitorija (Github))
 
 ## 
 
